@@ -1,0 +1,31 @@
+
+# Entorno virtual local
+.venv/
+venv/
+
+# Cachés de Python y pruebas
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+# Control de versiones
+.git/
+.gitignore
+
+# Archivos de desarrollo
+tests/
+.ipynb_checkpoints/
+*.ipynb
+
+# Credenciales y variables privadas
+.env
+.env.*
+*.key
+
+# Archivos del editor
+.vscode/
+
+# Documentación y archivos temporales
+README.md
+*.log
